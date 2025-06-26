@@ -29,7 +29,6 @@ This repository contains a collection of small but essential projects and notebo
 - SciPy (stats)
 - Statsmodels
 - Matplotlib & Seaborn
-- Pingouin (for some advanced stats tests)
 
 ---
 
