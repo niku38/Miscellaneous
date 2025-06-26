@@ -12,8 +12,7 @@ This repository contains a collection of small but essential projects and notebo
 - ✅ **T-Test**: One-sample, two-sample (independent), and paired t-tests  
 - ✅ **Chi-Square Test**: Test for independence using contingency tables  
 - ✅ **ANOVA**: Analysis of variance across multiple groups  
-- ✅ **Correlation Tests**: Pearson and Spearman correlation with significance  
-- ✅ **Normality Tests**: Shapiro-Wilk, D’Agostino’s K² test, and Q-Q plots  
+- ✅ **Correlation Tests**: Pearson and Spearman correlation  
 
 ---
 
